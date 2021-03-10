@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/core.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/test.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh/Pictures/spring jars/springjars/web.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
